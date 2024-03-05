@@ -3,3 +3,19 @@ QF5214 Data Engineering for Quantitative Fiance
 27/02/2024 1st Meeting:
 We scheduled our first meeting during the REFRESH week, identifying several topics relevant to this project and asking the group members to individually gather some information
 and questions about these topics. We will confirm the specific questions and timeline in the next meeting on 1/03/2024.
+
+05/03/2024 2nd Meeting:
+After last short meeting, we decide to do the "grid trading strategy optimizaton" of American stocks with sentiment indicator metric from
+the stock's news. We've separated to two teams and get to know about more information about "American Stocks" and relative news data, 
+how these data should be accessed and where to find news about stocks. Will start working on Friday.
+
+Project use case and problem: Optimizing Grid Trading Strategy in Stocks Market
+Analyze historical data to determine the optimal grid size to maximizes profits while minimizing risks. Find grid parameters such as ideal number of grid levels and the distance between gird level and so on. Import sentiment indicator metric as a parameter to decide trading strategy.
+To do:
+1.Select relative stocks
+2.Define KPIs for the trading strategy (e.g., return on investment, drawdown, Sharpe ratio).
+3.dataset, preparation, EDA
+4.ML to optimise grid parameter
+5.Evaluation 
+6.report
+
