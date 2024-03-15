@@ -84,7 +84,7 @@ def main():
             articles = data.get('articles', [])
             all_articles.extend(articles)
 
-            filename = f"{source}_headlines.csv"
+            filename = f"{source}_news_headlines.csv"
             save_articles_to_csv(articles, filename)
             print(f"Saved articles to {filename}")
 
