@@ -19,3 +19,18 @@ To do:
 5.Evaluation 
 6.report
 
+16/03/2024 3rd Meeting:
+We have discussed with Dr.shao and we decide to make more effort on data process and feature selectionf from the dataset. Hence, we change the 
+topic to "Walmart future fales forecast" from kaggle. And we have split the tasks to each member such as report writing, EDA, feature engineering 
+and model building parts. Each member will start their work next week.
+
+24/03/2024 4th Meeting:
+Chat with all members about their task process, data problems and try our first model "LGBM".
+
+29/03/2024 5th Meeting:
+Upload our first model training results to all members and talk about what issues this model have, because the performance of LGBM without specific 
+feature engineering strategies is not good, hence, we decide to make another model "LSTM" to do a comparison to validate the features are useful. 
+Keep building model and traning.
+
+07/04/2024 6th Meeting:
+Visualize all the features and results in one place and hand them over to the report writers to start writing the report.
